@@ -24,11 +24,12 @@
 ---
 
 ## 📄 Тестовая документация
-Вся документация по обеспечению качества проекта ведется в [укажите где, например: GitHub Wiki / папке docs].
+Вся документация по обеспечению качества проекта ведется в Google Docs.
+  * 📋 <a href = "https://docs.google.com/document/d/13d25EvkptIPmHOpeoDRMc6IokQ6_mInGh11YFQ4uGk4/edit?tab=t.0">Тест-план</a>  — стратегия и объем тестирования проекта.
 
-* 📋 Тест-план [(https://docs.google.com/document/d/13d25EvkptIPmHOpeoDRMc6IokQ6_mInGh11YFQ4uGk4/edit?tab=t.0)](#) — стратегия и объем тестирования проекта.
-* 📊 Матрица трассировки требований [(https://docs.google.com/spreadsheets/d/1Kp7Q1_yqFpYKEnYkTvitRngcvGN2U81FzRe7l49HKKg/edit?gid=515527896#gid=515527896)](#) — связь требований бизнеса с тест-кейсами.
-* 🔎 Чек-листы и Тест-кейсы [(https://docs.google.com/spreadsheets/d/1Kp7Q1_yqFpYKEnYkTvitRngcvGN2U81FzRe7l49HKKg/edit?gid=960870499#gid=960870499)](#) — подробные сценарии ручных проверок.
+  * 📊 <a href = "https://docs.google.com/spreadsheets/d/1Kp7Q1_yqFpYKEnYkTvitRngcvGN2U81FzRe7l49HKKg/edit?gid=515527896#gid=515527896">Матрица трассировки требований</a>  — связь требований бизнеса с тест-кейсам.
+
+   * 🔎 <a href = "https://docs.google.com/spreadsheets/d/1Kp7Q1_yqFpYKEnYkTvitRngcvGN2U81FzRe7l49HKKg/edit?gid=960870499#gid=960870499">Чек-листы и Тест-кейсы</a>  — подробные сценарии ручных проверок.
 
 ---
 
